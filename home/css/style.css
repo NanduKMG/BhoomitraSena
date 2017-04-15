@@ -91,7 +91,7 @@ body, html {
 /* Third image (Contact) */
 .bgimg-3 {
 
-    background-image: url("/home/nandukmg/Documents/BhoomitraSena Website/home/flower.jpg");
+    background-image: url("/BhoomitraSena/home/flower.jpg");
     min-height: 400px;
     min-width: 100%;
 }
